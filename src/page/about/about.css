@@ -1,0 +1,15 @@
+.hai {
+  color: red;
+}
+
+.new {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Menyesuaikan tinggi container sesuai kebutuhan */
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}

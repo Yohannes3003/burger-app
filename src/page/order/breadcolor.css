@@ -1,0 +1,18 @@
+.breadtop,
+.breadbot {
+  background-color: #964b00;
+}
+
+.mayonise {
+  background-color: #fffff1;
+}
+
+.saos {
+  background-color: #fb3822;
+}
+
+.baru {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
